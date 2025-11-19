@@ -11,7 +11,7 @@ import java.util.Arrays;
 
 public class ArrayGuide {
     public static void main(String[] args) {
-        // fixed-size int array of length 5, defaults to 0s
+        // fixed-size int array of length 5, defaults to 0s 
         int[] scores = new int[5];
 
         // literal initialization
@@ -79,3 +79,4 @@ System.out.println("Original: " + Arrays.toString(data)); // unchanged
 }
 
  
+//test
